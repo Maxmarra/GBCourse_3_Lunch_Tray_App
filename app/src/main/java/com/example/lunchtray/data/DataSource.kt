@@ -35,7 +35,7 @@ object DataSource {
             name = "Spicy Black Bean Skillet",
             description = "Seasonal vegetables, black beans, house spice blend, served with avocado " +
                     "and quick pickled onions",
-            price = 5.50,
+            price = 10.80,
             type = ItemType.ENTREE
         ),
         "salad" to
