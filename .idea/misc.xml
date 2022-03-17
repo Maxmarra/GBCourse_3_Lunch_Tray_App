@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/development/AndroidStudioProjects/AndroidStudioProjects/google_andr_basics/Navigation_03/LunchTrayGithub/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.27" />
+        <entry key="..\:/development/AndroidStudioProjects/AndroidStudioProjects/google_andr_basics/Navigation_03/LunchTrayGithub/app/src/main/res/drawable/ic_launcher_background.xml" value="0.27" />
+        <entry key="..\:/development/AndroidStudioProjects/AndroidStudioProjects/google_andr_basics/Navigation_03/LunchTrayGithub/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.27" />
+        <entry key="..\:/development/AndroidStudioProjects/AndroidStudioProjects/google_andr_basics/Navigation_03/LunchTrayGithub/app/src/main/res/layout/activity_main.xml" value="0.3671875" />
+        <entry key="..\:/development/AndroidStudioProjects/AndroidStudioProjects/google_andr_basics/Navigation_03/LunchTrayGithub/app/src/main/res/layout/fragment_accompaniment_menu.xml" value="0.3671875" />
+        <entry key="..\:/development/AndroidStudioProjects/AndroidStudioProjects/google_andr_basics/Navigation_03/LunchTrayGithub/app/src/main/res/layout/fragment_checkout.xml" value="0.3671875" />
+        <entry key="..\:/development/AndroidStudioProjects/AndroidStudioProjects/google_andr_basics/Navigation_03/LunchTrayGithub/app/src/main/res/layout/fragment_entree_menu.xml" value="0.3671875" />
+        <entry key="..\:/development/AndroidStudioProjects/AndroidStudioProjects/google_andr_basics/Navigation_03/LunchTrayGithub/app/src/main/res/layout/fragment_side_menu.xml" value="0.3671875" />
+        <entry key="..\:/development/AndroidStudioProjects/AndroidStudioProjects/google_andr_basics/Navigation_03/LunchTrayGithub/app/src/main/res/layout/fragment_start_order.xml" value="0.3671875" />
+        <entry key="..\:/development/AndroidStudioProjects/AndroidStudioProjects/google_andr_basics/Navigation_03/LunchTrayGithub/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.27" />
+        <entry key="..\:/development/AndroidStudioProjects/AndroidStudioProjects/google_andr_basics/Navigation_03/LunchTrayGithub/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.27" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
