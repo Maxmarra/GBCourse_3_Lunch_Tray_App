@@ -18,8 +18,13 @@ class OrderViewModel : ViewModel() {
     private var previousAccompanimentPrice = 0.0
 
     // Default tax rate
-    private val taxRate = 0.08
+    private val taxRate = 0.18
 
+    /*
+    The MenuItem contained in the LiveData object is also nullable since
+    it's possible for the user to not select an entree, side,
+    and/or accompaniment.
+    * **/
     // Entree for the order
     private val _entree = MutableLiveData<MenuItem?>()
     val entree: LiveData<MenuItem?> = _entree
@@ -56,6 +61,9 @@ class OrderViewModel : ViewModel() {
     fun setEntree(entree: String) {
         // TODO: if _entree.value is not null, set the previous entree price to the current
         //  entree price.
+        if(_entree.value != null){
+            _entree.value =
+        }
 
         // TODO: if _subtotal.value is not null subtract the previous entree price from the current
         //  subtotal value. This ensures that we only charge for the currently selected entree.
