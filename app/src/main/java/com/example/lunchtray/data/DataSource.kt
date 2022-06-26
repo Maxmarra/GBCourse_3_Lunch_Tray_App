@@ -17,7 +17,7 @@ object DataSource {
         ),
         "chili" to
         MenuItem(
-            name = "Чили-суп 'Три боба'",
+            name = "Чили 'Три боба'",
             description = "описание",
             price = 4.00,
             type = ItemType.ENTREE
